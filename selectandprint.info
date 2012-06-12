@@ -1,0 +1,6 @@
+name = Select and Print
+description = Provides an input filter that can be used to generate a list of elements that can be selected and printed. (Especially good for grocery lists.) Inspired by the WordPress plugin - http://www.mile51.com/selectAndPrint.html
+core = 7.x
+files[] = selectandprint.module
+files[] = includes/hooks.inc
+configure=admin/config/selectandprint/settings

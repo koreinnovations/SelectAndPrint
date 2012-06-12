@@ -1,0 +1,3 @@
+<?php
+
+module_load_include('inc', 'selectandprint', 'includes/hooks');
